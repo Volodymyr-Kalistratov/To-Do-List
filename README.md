@@ -13,3 +13,12 @@ Basic website functionalities:
 - adding task
 - removing task 
 - marking of the completed task
+
+## Features
+
+ - HTML
+ - CSS
+ - JavaScript
+ - BEM convention
+ - Normalize
+ - Grid
