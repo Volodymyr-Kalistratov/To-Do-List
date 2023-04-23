@@ -1,5 +1,5 @@
 ﻿# To-Do-List
- ![To-do-list](images/Animation.gif)
+ ![To-do-list](images/animation1.gif)
  
  ## Demo
 https://volodymyr-kalistratov.github.io/To-Do-List/
@@ -13,3 +13,12 @@ Basic website functionalities:
 - adding task
 - removing task 
 - marking of the completed task
+
+## Features
+
+ - HTML
+ - CSS
+ - JavaScript
+ - BEM convention
+ - Normalize
+ - Grid
