@@ -28,10 +28,14 @@
 }
 
 .tasks__button--toggleDone {
-    background-color: green;
+    background-color: hsl(120, 100%, 25%);
     width: 30px;
     height: 30px;
     color: white;
+}
+
+.tasks__button--toggleDone:hover {
+    background-color: hsl(120, 100%, 35%);
 }
 
 .tasks__button--remove {
@@ -39,8 +43,12 @@
     width: 30px;
     height: 30px;
     border: none;
-    background-color: red;
+    background-color: hsl(0, 100%, 50%);
     transition: 0.3s;
+}
+
+.tasks__button--remove:hover {
+    background-color: hsl(0, 100%, 60%);
 }
 
 .tasks__item--hidden {
